@@ -1,0 +1,248 @@
+" Code numeric"," Code alpha3"," Code alpha2",Name
+400,AFG,AF,Afghanistan
+248,ALA,AX,"Îles Åland"
+800,ALB,AL,Albanie
+120,DZA,DZ,Algérie
+160,ASM,AS,"Samoa américaines"
+200,AND,AD,Andorre
+240,AGO,AO,Angola
+660,AIA,AI,Anguilla
+100,ATA,AQ,Antarctique
+280,ATG,AG,Antigua-et-Barbuda
+320,ARG,AR,Argentine
+510,ARM,AM,Arménie
+533,ABW,AW,Aruba
+360,AUS,AU,Australie
+400,AUT,AT,Autriche
+310,AZE,AZ,Azerbaïdjan
+440,BHS,BS,Bahamas
+480,BHR,BH,Bahreïn
+500,BGD,BD,Bangladesh
+520,BRB,BB,Barbade
+112,BLR,BY,Biélorussie
+560,BEL,BE,Belgique
+840,BLZ,BZ,Belize
+204,BEN,BJ,Bénin
+600,BMU,BM,Bermudes
+640,BTN,BT,Bhoutan
+680,BOL,BO,Bolivie
+700,BIH,BA,Bosnie-Herzégovine
+720,BWA,BW,Botswana
+740,BVT,BV,"Île Bouvet"
+760,BRA,BR,Brésil
+920,VGB,VG,"British Virgin Islands"
+860,IOT,IO,"Territoire britannique de l’Océan Indien"
+960,BRN,BN,"Brunei Darussalam"
+100,BGR,BG,Bulgarie
+854,BFA,BF,"Burkina Faso"
+108,BDI,BI,Burundi
+116,KHM,KH,Cambodge
+120,CMR,CM,Cameroun
+124,CAN,CA,Canada
+132,CPV,CV,Cap-Vert
+136,CYM,KY,"Iles Cayman"
+140,CAF,CF,"République centrafricaine"
+148,TCD,TD,Tchad
+152,CHL,CL,Chili
+156,CHN,CN,Chine
+344,HKG,HK,"Hong Kong"
+446,MAC,MO,Macao
+162,CXR,CX,"Île Christmas"
+166,CCK,CC,"Îles Cocos"
+170,COL,CO,Colombie
+174,COM,KM,Comores
+178,COG,CG,"République du Congo"
+180,COD,CD,"République démocratique du Congo"
+184,COK,CK,"Îles Cook"
+188,CRI,CR,"Costa Rica"
+384,CIV,CI,"Côte d’Ivoire"
+191,HRV,HR,Croatie
+192,CUB,CU,Cuba
+196,CYP,CY,Chypre
+203,CZE,CZ,"République tchèque"
+208,DNK,DK,Danemark
+262,DJI,DJ,Djibouti
+212,DMA,DM,Dominique
+214,DOM,DO,"République dominicaine"
+218,ECU,EC,Équateur
+818,EGY,EG,Égypte
+222,SLV,SV,Salvador
+226,GNQ,GQ,"Guinée équatoriale"
+232,ERI,ER,Érythrée
+233,EST,EE,Estonie
+231,ETH,ET,Éthiopie
+238,FLK,FK,"Îles Falkland"
+234,FRO,FO,"Îles Féroé"
+242,FJI,FJ,Fidji
+246,FIN,FI,Finlande
+250,FRA,FR,France
+254,GUF,GF,"Guyane française"
+258,PYF,PF,"Polynésie française"
+260,ATF,TF,"Terres australes et antarctiques françaises"
+266,GAB,GA,Gabon
+270,GMB,GM,Gambie
+268,GEO,GE,Géorgie
+276,DEU,DE,Allemagne
+288,GHA,GH,Ghana
+292,GIB,GI,Gibraltar
+300,GRC,GR,Grèce
+304,GRL,GL,Groenland
+308,GRD,GD,Grenade
+312,GLP,GP,Guadeloupe
+316,GUM,GU,Guam
+320,GTM,GT,Guatemala
+831,GGY,GG,Guernesey
+324,GIN,GN,Guinée
+624,GNB,GW,Guinée-Bissau
+328,GUY,GY,Guyane
+332,HTI,HT,Haïti
+334,HMD,HM,"Îles Heard-et-MacDonald"
+336,VAT,VA,"Saint-Siège (Vatican)"
+340,HND,HN,Honduras
+348,HUN,HU,Hongrie
+352,ISL,IS,Islande
+356,IND,IN,Inde
+360,IDN,ID,Indonésie
+364,IRN,IR,Iran
+368,IRQ,IQ,Irak
+372,IRL,IE,Irlande
+833,IMN,IM,"Ile de Man"
+376,ISR,IL,Israël
+380,ITA,IT,Italie
+388,JAM,JM,Jamaïque
+392,JPN,JP,Japon
+832,JEY,JE,Jersey
+400,JOR,JO,Jordanie
+398,KAZ,KZ,Kazakhstan
+404,KEN,KE,Kenya
+296,KIR,KI,Kiribati
+408,PRK,KP,"Corée du Nord"
+410,KOR,KR,"Corée du Sud"
+414,KWT,KW,Koweït
+417,KGZ,KG,Kirghizistan
+418,LAO,LA,Laos
+428,LVA,LV,Lettonie
+422,LBN,LB,Liban
+426,LSO,LS,Lesotho
+430,LBR,LR,Libéria
+434,LBY,LY,Libye
+438,LIE,LI,Liechtenstein
+440,LTU,LT,Lituanie
+442,LUX,LU,Luxembourg
+807,MKD,MK,Macédoine
+450,MDG,MG,Madagascar
+454,MWI,MW,Malawi
+458,MYS,MY,Malaisie
+462,MDV,MV,Maldives
+466,MLI,ML,Mali
+470,MLT,MT,Malte
+584,MHL,MH,"Îles Marshall"
+474,MTQ,MQ,Martinique
+478,MRT,MR,Mauritanie
+480,MUS,MU,Maurice
+175,MYT,YT,Mayotte
+484,MEX,MX,Mexique
+583,FSM,FM,Micronésie
+498,MDA,MD,Moldavie
+492,MCO,MC,Monaco
+496,MNG,MN,Mongolie
+499,MNE,ME,Monténégro
+500,MSR,MS,Montserrat
+504,MAR,MA,Maroc
+508,MOZ,MZ,Mozambique
+104,MMR,MM,Myanmar
+516,NAM,NA,Namibie
+520,NRU,NR,Nauru
+524,NPL,NP,Népal
+528,NLD,NL,Pays-Bas
+540,NCL,NC,Nouvelle-Calédonie
+554,NZL,NZ,Nouvelle-Zélande
+558,NIC,NI,Nicaragua
+562,NER,NE,Niger
+566,NGA,NG,Nigeria
+570,NIU,NU,Niue
+574,NFK,NF,"Île Norfolk"
+580,MNP,MP,"Îles Mariannes du Nord"
+578,NOR,NO,Norvège
+512,OMN,OM,Oman
+586,PAK,PK,Pakistan
+585,PLW,PW,Palau
+275,PSE,PS,Palestine
+591,PAN,PA,Panama
+598,PNG,PG,Papouasie-Nouvelle-Guinée
+600,PRY,PY,Paraguay
+604,PER,PE,Pérou
+608,PHL,PH,Philippines
+612,PCN,PN,Pitcairn
+616,POL,PL,Pologne
+620,PRT,PT,Portugal
+630,PRI,PR,"Puerto Rico"
+634,QAT,QA,Qatar
+638,REU,RE,Réunion
+642,ROU,RO,Roumanie
+643,RUS,RU,Russie
+646,RWA,RW,Rwanda
+652,BLM,BL,Saint-Barthélemy
+654,SHN,SH,Sainte-Hélène
+659,KNA,KN,Saint-Kitts-et-Nevis
+662,LCA,LC,Sainte-Lucie
+663,MAF,MF,"Saint-Martin (partie française)"
+534,SXM,SX,"Saint-Martin (partie néerlandaise)"
+666,SPM,PM,Saint-Pierre-et-Miquelon
+670,VCT,VC,"Saint-Vincent-et-les Grenadines"
+882,WSM,WS,Samoa
+674,SMR,SM,Saint-Marin
+678,STP,ST,"Sao Tomé-et-Principe"
+682,SAU,SA,"Arabie Saoudite"
+686,SEN,SN,Sénégal
+688,SRB,RS,Serbie
+690,SYC,SC,Seychelles
+694,SLE,SL,"Sierra Leone"
+702,SGP,SG,Singapour
+703,SVK,SK,Slovaquie
+705,SVN,SI,Slovénie
+900,SLB,SB,"Îles Salomon"
+706,SOM,SO,Somalie
+710,ZAF,ZA,"Afrique du Sud"
+239,SGS,GS,"Géorgie du Sud et les îles Sandwich du Sud"
+728,SSD,SS,Sud-Soudan
+724,ESP,ES,Espagne
+144,LKA,LK,"Sri Lanka"
+736,SDN,SD,Soudan
+740,SUR,SR,Suriname
+744,SJM,SJ,"Svalbard et Jan Mayen"
+748,SWZ,SZ,Eswatini
+752,SWE,SE,Suède
+756,CHE,CH,Suisse
+760,SYR,SY,Syrie
+158,TWN,TW,Taiwan
+762,TJK,TJ,Tadjikistan
+834,TZA,TZ,Tanzanie
+764,THA,TH,Thaïlande
+626,TLS,TL,Timor-Leste
+768,TGO,TG,Togo
+772,TKL,TK,Tokelau
+776,TON,TO,Tonga
+780,TTO,TT,Trinité-et-Tobago
+788,TUN,TN,Tunisie
+792,TUR,TR,Turquie
+795,TKM,TM,Turkménistan
+796,TCA,TC,"Îles Turques-et-Caïques"
+798,TUV,TV,Tuvalu
+800,UGA,UG,Ouganda
+804,UKR,UA,Ukraine
+784,ARE,AE,"Émirats Arabes Unis"
+826,GBR,GB,Royaume-Uni
+840,USA,US,États-Unis
+581,UMI,UM,"Îles mineures éloignées des États-Unis"
+858,URY,UY,Uruguay
+860,UZB,UZ,Ouzbékistan
+548,VUT,VU,Vanuatu
+862,VEN,VE,Venezuela
+704,VNM,VN,"Viêt Nam"
+850,VIR,VI,"Îles Vierges américaines"
+876,WLF,WF,Wallis-et-Futuna
+732,ESH,EH,"Sahara occidental"
+887,YEM,YE,Yémen
+894,ZMB,ZM,Zambie
+716,ZWE,ZW,Zimbabwe
